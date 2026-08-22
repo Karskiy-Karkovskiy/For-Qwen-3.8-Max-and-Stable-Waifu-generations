@@ -13,7 +13,7 @@ CHANNEL = 'StableWaifuArt'   # лента артов; если нужен дру
 OWNER   = 'Karskiy-Karkovskiy'
 REPO    = 'For-Qwen-3.8-Max-and-Stable-Waifu-generations'
 BRANCH  = 'main'
-DAYS    = 3      # сколько ПОЛНЫХ дней (не считая сегодня) брать
+DAYS    = 1      # сколько ПОЛНЫХ дней (не считая сегодня) брать
 CHUNK   = 30     # постов в одном пакете = один коммит на GitHub
 LIMIT_BYTES = int(1.5 * 1024 ** 3)   # лимит папки ArtChat/Arts, 1.5 ГБ
 # =============================================
